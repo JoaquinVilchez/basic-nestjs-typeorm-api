@@ -2,15 +2,6 @@
 
 Este es un proyecto básico configurado con NestJS, TypeORM y MySQL, diseñado para servir como punto de partida para construir APIs. Esta plantilla incluye configuraciones esenciales y paquetes para ayudarte a comenzar rápidamente.
 
-## Tabla de Contenidos
-
-1. [Características](#características)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Scripts](#scripts)
-5. [Dependencias](#dependencias)
-6. [Dependencias de Desarrollo](#dependencias-de-desarrollo)
-
 ## Características
 
 - **NestJS**: Un framework de Node.js progresivo para construir aplicaciones del lado del servidor eficientes y escalables.
